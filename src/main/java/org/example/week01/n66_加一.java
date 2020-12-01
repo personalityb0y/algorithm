@@ -45,6 +45,9 @@ package org.example.week01;
 
 import java.util.Arrays;
 
+/**
+ * 每日一刷
+ */
 public class n66_加一 {
 
 
